@@ -3,4 +3,5 @@ maintainer_email "papilion@hypergeometric.com"
 license          "GPLv2 All rights reserved"
 description      "Installs/Configures /usr/sbin/policy-rc.d"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
+name             "policy-rc-d"
 version          "0.1.0"
